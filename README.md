@@ -1,4 +1,5 @@
 # vue-editor-lesson
+这是一个自由布局的低代码编辑器
 
 ## Project setup
 ```
